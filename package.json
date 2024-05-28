@@ -1,7 +1,7 @@
 {
   "name": "to-do-list",
   "version": "0.1.0",
-  "homepage": "https://github.com/06babyshark06/to-do-list-react",
+  "homepage": "https://06babyshark06.github.io/to-do-list-react",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
